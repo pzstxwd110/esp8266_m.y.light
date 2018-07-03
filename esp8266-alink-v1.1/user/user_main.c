@@ -31,7 +31,7 @@
  * Parameters   : none
  * Returns      : none
 *******************************************************************************/
-//   ceshibanbenku             11111
+//   ceshibanbenku             dev1
 uint32 user_rf_cal_sector_set(void)
 {
     flash_size_map size_map = system_get_flash_size_map();
